@@ -133,17 +133,6 @@ Government College for Men (Autonomous) · **CGPA: 8.88 / 10.0**
 
 ---
 
-## 📈 GitHub pulse
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charunithesh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2563eb&icon_color=0f766e&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charunithesh&layout=compact&hide_border=true&langs_count=6&title_color=2563eb&text_color=334155&bg_color=ffffff" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=charunithesh&hide_border=true&background=FFFFFF&ring=2563EB&fire=F97316&currStreakLabel=0F766E&sideLabels=334155&dates=64748B" alt="GitHub contribution streak" />
-</div>
-
 ---
 
 ## 🏆 Highlights beyond the code
